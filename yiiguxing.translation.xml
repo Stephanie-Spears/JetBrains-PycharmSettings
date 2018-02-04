@@ -1,0 +1,20 @@
+<application>
+  <component name="AppStorage">
+    <option name="lastSourceLanguage" value="AUTO" />
+    <option name="lastTargetLanguage" value="ENGLISH" />
+    <histories>
+      <item value="Пожалуйста" />
+      <item value="Debes" />
+      <item value="Error" />
+      <item value="エラー" />
+      <item value="翻訳" />
+    </histories>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ENGLISH" />
+      </google-translate>
+    </option>
+  </component>
+</application>
