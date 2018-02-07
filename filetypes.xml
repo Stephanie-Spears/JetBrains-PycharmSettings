@@ -12,6 +12,7 @@
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="com-b'bubsb4qlu9pgpbuuyleiwlaagtw'-b'1xh99mixfvyeg_qd_qzjgnu0nve'" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
     </extensionMap>
